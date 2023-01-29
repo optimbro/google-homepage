@@ -158,3 +158,50 @@ width: 99%;
 .footer a {
     padding-left: 20px;
 }
+/* 3 dots */
+#gb#gb a.gb_e {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .gb_e:focus {
+    opacity: 1;
+  }
+  
+  .gb_K .gb_e, .gb_L .gb_K .gb_e {
+    background-position: -64px -29px;
+  }
+
+  .gb_We button svg, .gb_e {
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+  }
+
+  .gb_e {
+    padding: 8px;
+    cursor: pointer;
+  }
+
+  .gb_e {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 40px;
+    width: 40px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .gb_2d {
+    line-height: normal;
+  }
+
+  .gb_Qd {
+    white-space: nowrap;
+  }
